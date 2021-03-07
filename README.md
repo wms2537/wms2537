@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on
+  - CHKL App
+
+
+- 🌱 I’m currently learning
+  - Distributed ML and DL
+  - Streaming protocols (webrtc)
 <!--
 **wms2537/wms2537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
