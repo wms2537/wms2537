@@ -7,6 +7,12 @@
 - 🌱 I’m currently learning
   - Distributed ML and DL
   - Streaming protocols (webrtc)
+ 
+- 📫 How to reach me:
+  - swmeng@yes.my
+
+- Projects:
+  - refer to [my profile page](https://wms2537.github.io)
 <!--
 **wms2537/wms2537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
