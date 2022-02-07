@@ -9,7 +9,7 @@
   - Streaming protocols (webrtc)
  
 - 📫 How to reach me:
-  - swmeng@yes.my
+  - swmengappdev@gmail.com
 
 - Projects:
   - refer to [my profile page](https://wms2537.github.io)
