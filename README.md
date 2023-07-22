@@ -6,13 +6,12 @@
 
 - 🌱 I’m currently learning
   - Distributed ML and DL
-  - Streaming protocols (webrtc)
+  - Web3 stuffs
  
 - 📫 How to reach me:
   - swmengappdev@gmail.com
+  - ETH: 0xE6E31C4551e86f4D695B3569DDD44f3B4DE6eF18
 
-- Projects:
-  - refer to [my profile page](https://wms2537.github.io)
 <!--
 **wms2537/wms2537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
